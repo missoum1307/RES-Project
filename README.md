@@ -17,6 +17,7 @@ CMD: rc.exe resource.rc
 Output: resource.res
 
 3. Create EXE file from .res file, the output from pervious step. resource.res
+
 CMD: GoLink.exe resource.res
 
 4. Render file on IE as follow: res://C:\path\to\resource.exe/XSS

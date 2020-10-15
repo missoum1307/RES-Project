@@ -16,6 +16,6 @@ Output: resource.res
 3) Create EXE file from .res file, the output from pervious step. resource.res
 CMD: GoLink.exe resource.res
 
-4) render file on IE as follow: res://C:\path\to\resource.exe/XSS
+4) Render file on IE as follow: res://C:\path\to\resource.exe/XSS
 or using iframe as follow: 
 <iframe src="res://C:\path\to\resource.exe/XSS"  height="400" width="400"></iframe>

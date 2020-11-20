@@ -1,0 +1,5 @@
+/* standard resource # for HTML */
+#define HTML 23
+ 
+/* include all resource from external files */
+XSS      HTML    "xss.html"

@@ -1,3 +1,4 @@
+this was created as part of research conducted about vulnerability (XSS) in IE browser.
 
 # RES-Project
 1) Create a resource source file:
